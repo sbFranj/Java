@@ -6,7 +6,7 @@
 
 ## Boletines
 
-- #### [1 _Operaciones básicas_](https://github.com/sbFranj/Java/tree/main/boletin_1) 
+- #### [1 _Operaciones básicas_](https://github.com/sbFranj/Java/tree/main/boletin_1/src/com) 
 
  
 
