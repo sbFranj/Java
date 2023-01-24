@@ -10,18 +10,14 @@ public class Ej15 {
 
 		
 		Scanner sc = new Scanner(System.in);
-		int num;
-		int suma;
-		suma = 0;
-	
+		String cadena = "0";
+		int suma = 0;
 		
 		do {
-			
-			System.out.print("Introduce numeros a sumar: ");
-			num = Integer.valueOf(sc.nextLine());
-			suma+=num;
-			
-		}while(Integer.toString(num)!="fin");
+			suma+=Integer.valueOf(cadena);
+			System.out.print("Introduce numero: ");
+			cadena = sc.nextLine();
+		}while (!cadena.equals("fin"));
 		System.out.println(suma);
 	}
 
