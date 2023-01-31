@@ -1,8 +1,14 @@
 # Repositorio de Boletines de _Java_       
 
 **Este repositorio va a almacenar las soluciones propuestas por _"sbFranj"_ sobre los Boletines de la asigntaura _Programacion_, tambien como copia de seguridad.** 
-
-![imagen](https://cdn-icons-png.flaticon.com/512/3664/3664988.png)
+<table>
+ <tr>
+  <td width="250" height="200">
+   <img src="https://freepngimg.com/download/java/85390-java-language-text-programming-logo-programmer.png"></img>
+  
+  </td>
+ </tr>
+</table>
 
 ## Boletines
 
