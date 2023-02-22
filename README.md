@@ -15,4 +15,4 @@
 - #### [1.1. Introducción a Java. I](https://github.com/sbFranj/Java/tree/main/boletin_1/src/com) 
 - #### [1.2. Introducción a Java. II](https://github.com/sbFranj/Java/tree/main/boletin_2/src/com) 
 - #### [1.3. Introducción a Java. III](https://github.com/sbFranj/Java/tree/main/boletin_3/src/com)
-
+- #### [2.1. Orientacion a Objetos](https://github.com/sbFranj/Java/tree/boletinclases1/BoletinClases_1/src)
