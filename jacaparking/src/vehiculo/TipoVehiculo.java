@@ -1,0 +1,6 @@
+package vehiculo;
+
+public enum TipoVehiculo {
+
+	AUTOMOVIL, CICLOMOTOR, TRANSPORTE_MERCANCIAS, TRASNSPORTE_COLECTIVO
+}
