@@ -18,4 +18,4 @@
 - #### [2.1. Orientacion a Objetos](https://github.com/sbFranj/Java/tree/boletinclases1/BoletinClases_1/src)
 - #### [2.2. Orientacion a Objetos II](https://github.com/sbFranj/Java/tree/main/boletinClases_2/src)
 - #### [3.1. Orientacion a Objetos Avanzada I](https://github.com/sbFranj/Java/tree/main/sieteymedia/src/sieteymedia)
-- #### [3.1. Orientacion a Objetos Avanzada II](https://github.com/sbFranj/Java/tree/main/jacaparking/src)
+- #### [3.2. Orientacion a Objetos Avanzada II](https://github.com/sbFranj/Java/tree/main/jacaparking/src)
