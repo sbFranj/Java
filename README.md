@@ -22,4 +22,4 @@
 - #### [3.3. Orientacion a Objetos Avanzada III](https://github.com/sbFranj/Java/tree/main/blocDeNotas/src)
 - #### [3.4. Orientacion a Objetos Avanzada IV](https://github.com/sbFranj/Java/tree/main/alquilerVehiculos)
 - #### [3.5. Orientacion a Objetos Avanzada V](https://github.com/sbFranj/Java/tree/main/empresaIT)
-- #### [4.1. Orientacion a Objetos Estructura de Datos Avanzados I](https://github.com/sbFranj/Java/tree/main/boletin1eda/src/boletin1eda)
+
