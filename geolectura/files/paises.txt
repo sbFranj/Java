@@ -1,0 +1,1527 @@
+1 Afghanistan
+1 paises y 0 direcciones 
+ -251 Kabul 
+
+
+2 Algeria
+3 paises y 3 direcciones 
+ -59 Batna 
+
+ -63 Bchar 
+
+ -483 Skikda 
+
+
+3 American Samoa
+1 paises y 0 direcciones 
+ -516 Tafuna 
+
+
+4 Angola
+2 paises y 1 direcciones 
+ -67 Benguela 
+
+ -360 Namibe 
+
+
+5 Anguilla
+1 paises y 0 direcciones 
+ -493 South Hill 
+
+
+6 Argentina
+13 paises y 2 direcciones 
+ -20 Almirante Brown 
+
+ -43 Avellaneda 
+
+ -45 Baha Blanca 
+
+ -161 Escobar 
+
+ -165 Ezeiza 
+
+ -289 La Plata 
+
+ -334 Merlo 
+
+ -424 Quilmes 
+
+ -454 San Miguel de Tucumn 
+
+ -524 Tandil 
+
+ -567 Vicente Lpez 
+
+ -128 Crdoba 
+
+ -457 Santa F 
+
+
+7 Armenia
+1 paises y 1 direcciones 
+ -586 Yerevan 
+
+
+8 Australia
+1 paises y 0 direcciones 
+ -576 Woodridge 
+
+
+9 Austria
+3 paises y 1 direcciones 
+ -186 Graz 
+
+ -307 Linz 
+
+ -447 Salzburg 
+
+
+10 Azerbaijan
+2 paises y 1 direcciones 
+ -48 Baku 
+
+ -505 Sumqayit 
+
+
+11 Bahrain
+1 paises y 0 direcciones 
+ -14 al-Manama 
+
+
+12 Bangladesh
+3 paises y 3 direcciones 
+ -234 Jamalpur 
+
+ -525 Tangail 
+
+ -143 Dhaka 
+
+
+13 Belarus
+2 paises y 0 direcciones 
+ -339 Mogiljov 
+
+ -340 Molodetno 
+
+
+14 Bolivia
+2 paises y 2 direcciones 
+ -153 El Alto 
+
+ -501 Sucre 
+
+
+15 Brazil
+28 paises y 0 direcciones 
+ -21 Alvorada 
+
+ -25 Angra dos Reis 
+
+ -26 Anpolis 
+
+ -28 Aparecida de Goinia 
+
+ -30 Araatuba 
+
+ -44 Bag 
+
+ -66 Belm 
+
+ -83 Blumenau 
+
+ -84 Boa Vista 
+
+ -89 Braslia 
+
+ -183 Goinia 
+
+ -189 Guaruj 
+
+ -215 Ibirit 
+
+ -247 Juazeiro do Norte 
+
+ -248 Juiz de Fora 
+
+ -317 Luzinia 
+
+ -328 Maring 
+
+ -410 Po 
+
+ -413 Poos de Caldas 
+
+ -431 Rio Claro 
+
+ -456 Santa Brbara dOeste 
+
+ -461 Santo Andr 
+
+ -485 So Bernardo do Campo 
+
+ -486 So Leopoldo 
+
+ -490 Sorocaba 
+
+ -569 Vila Velha 
+
+ -572 Vitria de Santo Anto 
+
+ -190 guas Lindas de Gois 
+
+
+16 Brunei
+1 paises y 0 direcciones 
+ -53 Bandar Seri Begawan 
+
+
+17 Bulgaria
+2 paises y 0 direcciones 
+ -436 Ruse 
+
+ -498 Stara Zagora 
+
+
+18 Cambodia
+2 paises y 1 direcciones 
+ -60 Battambang 
+
+ -406 Phnom Penh 
+
+
+19 Cameroon
+2 paises y 0 direcciones 
+ -52 Bamenda 
+
+ -585 Yaound 
+
+
+20 Canada
+7 paises y 0 direcciones 
+ -179 Gatineau 
+
+ -196 Halifax 
+
+ -300 Lethbridge 
+
+ -313 London 
+
+ -383 Oshawa 
+
+ -430 Richmond Hill 
+
+ -565 Vancouver 
+
+
+21 Chad
+1 paises y 0 direcciones 
+ -363 NDjamna 
+
+
+22 Chile
+3 paises y 1 direcciones 
+ -127 Coquimbo 
+
+ -428 Rancagua 
+
+ -27 Antofagasta 
+
+
+23 China
+53 paises y 3 direcciones 
+ -46 Baicheng 
+
+ -47 Baiyin 
+
+ -80 Binzhou 
+
+ -109 Changzhou 
+
+ -136 Datong 
+
+ -139 Daxian 
+
+ -145 Dongying 
+
+ -157 Emeishan 
+
+ -159 Enshi 
+
+ -166 Ezhou 
+
+ -174 Fuyu 
+
+ -175 Fuzhou 
+
+ -193 Haining 
+
+ -199 Hami 
+
+ -207 Hohhot 
+
+ -210 Huaian 
+
+ -240 Jinchang 
+
+ -241 Jining 
+
+ -242 Jinzhou 
+
+ -249 Junan 
+
+ -277 Korla 
+
+ -291 Laiwu 
+
+ -293 Laohekou 
+
+ -298 Lengshuijiang 
+
+ -299 Leshan 
+
+ -302 Liaocheng 
+
+ -332 Meixian 
+
+ -362 Nanyang 
+
+ -407 Pingxiang 
+
+ -422 Qinhuangdao 
+
+ -432 Rizhao 
+
+ -462 Sanya 
+
+ -468 Shanwei 
+
+ -469 Shaoguan 
+
+ -471 Shenzhen 
+
+ -502 Suihua 
+
+ -536 Tiefa 
+
+ -537 Tieli 
+
+ -540 Tongliao 
+
+ -574 Weifang 
+
+ -578 Xiangfan 
+
+ -579 Xiangtan 
+
+ -580 Xintai 
+
+ -584 Yantai 
+
+ -587 Yinchuan 
+
+ -588 Yingkou 
+
+ -590 Yuncheng 
+
+ -591 Yuzhou 
+
+ -592 Zalantun 
+
+ -594 Zaoyang 
+
+ -599 Zhoushan 
+
+ -535 Tianjin 
+
+ -581 Xinxiang 
+
+
+24 Colombia
+6 paises y 0 direcciones 
+ -96 Buenaventura 
+
+ -147 Dos Quebradas 
+
+ -170 Florencia 
+
+ -405 Pereira 
+
+ -480 Sincelejo 
+
+ -487 Sogamoso 
+
+
+25 Congo
+2 paises y 0 direcciones 
+ -315 Lubumbashi 
+
+ -348 Mwene-Ditu 
+
+
+26 Czech Republic
+1 paises y 0 direcciones 
+ -378 Olomouc 
+
+
+27 Dominican Republic
+3 paises y 1 direcciones 
+ -450 San Felipe de Puerto Plata 
+
+ -460 Santiago de los Caballeros 
+
+ -290 La Romana 
+
+
+28 Ecuador
+3 paises y 0 direcciones 
+ -311 Loja 
+
+ -414 Portoviejo 
+
+ -434 Robamba 
+
+
+29 Egypt
+6 paises y 1 direcciones 
+ -79 Bilbays 
+
+ -216 Idfu 
+
+ -337 Mit Ghamr 
+
+ -421 Qalyub 
+
+ -476 Shubra al-Khayma 
+
+ -465 Sawhaj 
+
+
+30 Estonia
+1 paises y 0 direcciones 
+ -530 Tartu 
+
+
+31 Ethiopia
+1 paises y 1 direcciones 
+ -6 Addis Abeba 
+
+
+32 Faroe Islands
+1 paises y 0 direcciones 
+ -545 Trshavn 
+
+
+33 Finland
+1 paises y 0 direcciones 
+ -387 Oulu 
+
+
+34 France
+4 paises y 0 direcciones 
+ -92 Brest 
+
+ -297 Le Mans 
+
+ -543 Toulon 
+
+ -544 Toulouse 
+
+
+35 French Guiana
+1 paises y 1 direcciones 
+ -105 Cayenne 
+
+
+36 French Polynesia
+2 paises y 0 direcciones 
+ -167 Faaa 
+
+ -397 Papeete 
+
+
+37 Gambia
+1 paises y 0 direcciones 
+ -54 Banjul 
+
+
+38 Germany
+7 paises y 0 direcciones 
+ -148 Duisburg 
+
+ -160 Erlangen 
+
+ -198 Halle/Saale 
+
+ -325 Mannheim 
+
+ -439 Saarbrcken 
+
+ -477 Siegen 
+
+ -575 Witten 
+
+
+39 Greece
+2 paises y 0 direcciones 
+ -38 Athenai 
+
+ -401 Patras 
+
+
+40 Greenland
+1 paises y 0 direcciones 
+ -371 Nuuk 
+
+
+41 Holy See Vatican City State
+1 paises y 0 direcciones 
+ -121 Citt del Vaticano 
+
+
+42 Hong Kong
+1 paises y 0 direcciones 
+ -279 Kowloon and New Kowloon 
+
+
+43 Hungary
+1 paises y 0 direcciones 
+ -512 Szkesfehrvr 
+
+
+44 India
+60 paises y 0 direcciones 
+ -8 Adoni 
+
+ -9 Ahmadnagar 
+
+ -18 Allappuzha Alleppey 
+
+ -22 Ambattur 
+
+ -24 Amroha 
+
+ -51 Balurghat 
+
+ -71 Berhampore Baharampur 
+
+ -73 Bhavnagar 
+
+ -74 Bhilwara 
+
+ -75 Bhimavaram 
+
+ -76 Bhopal 
+
+ -77 Bhusawal 
+
+ -78 Bijapur 
+
+ -107 Chandrapur 
+
+ -110 Chapra 
+
+ -144 Dhule Dhulia 
+
+ -164 Etawah 
+
+ -169 Firozabad 
+
+ -176 Gandhinagar 
+
+ -191 Gulbarga 
+
+ -195 Haldia 
+
+ -197 Halisahar 
+
+ -208 Hoshiarpur 
+
+ -211 Hubli-Dharwad 
+
+ -231 Jaipur 
+
+ -239 Jhansi 
+
+ -243 Jodhpur 
+
+ -257 Kamarhati 
+
+ -261 Kanchrapara 
+
+ -263 Karnal 
+
+ -264 Katihar 
+
+ -283 Kumbakonam 
+
+ -336 Miraj 
+
+ -346 Munger Monghyr 
+
+ -350 Mysore 
+
+ -354 Nagaon 
+
+ -395 Palghat Palakkad 
+
+ -398 Parbhani 
+
+ -399 Pathankot 
+
+ -400 Patiala 
+
+ -416 Pudukkottai 
+
+ -417 Pune 
+
+ -418 Purnea Purnia 
+
+ -425 Rae Bareli 
+
+ -426 Rajkot 
+
+ -427 Rampur 
+
+ -429 Ranchi 
+
+ -448 Sambhal 
+
+ -464 Satna 
+
+ -473 Shimoga 
+
+ -475 Shivapuri 
+
+ -478 Siliguri Shiliguri 
+
+ -522 Tambaram 
+
+ -550 Udaipur 
+
+ -554 Uluberia 
+
+ -559 Uttarpara-Kotrung 
+
+ -564 Valparai 
+
+ -566 Varanasi Benares 
+
+ -568 Vijayawada 
+
+ -582 Yamuna Nagar 
+
+
+45 Indonesia
+14 paises y 0 direcciones 
+ -117 Cianjur 
+
+ -118 Ciomas 
+
+ -119 Ciparay 
+
+ -184 Gorontalo 
+
+ -232 Jakarta 
+
+ -301 Lhokseumawe 
+
+ -318 Madiun 
+
+ -396 Pangkal Pinang 
+
+ -403 Pemalang 
+
+ -412 Pontianak 
+
+ -415 Probolinggo 
+
+ -419 Purwakarta 
+
+ -509 Surakarta 
+
+ -532 Tegal 
+
+
+46 Iran
+8 paises y 4 direcciones 
+ -31 Arak 
+
+ -356 Najafabad 
+
+ -423 Qomsheh 
+
+ -467 Shahr-e Kord 
+
+ -481 Sirjan 
+
+ -514 Tabriz 
+
+ -265 Kermanshah 
+
+ -162 Esfahan 
+
+
+47 Iraq
+1 paises y 0 direcciones 
+ -344 Mosul 
+
+
+48 Israel
+4 paises y 0 direcciones 
+ -34 Ashdod 
+
+ -36 Ashqelon 
+
+ -57 Bat Yam 
+
+ -533 Tel Aviv-Jaffa 
+
+
+49 Italy
+7 paises y 0 direcciones 
+ -17 Alessandria 
+
+ -70 Bergamo 
+
+ -91 Brescia 
+
+ -93 Brindisi 
+
+ -309 Livorno 
+
+ -511 Syrakusa 
+
+ -551 Udine 
+
+
+50 Japan
+31 paises y 6 direcciones 
+ -10 Akishima 
+
+ -172 Fukuyama 
+
+ -203 Higashiosaka 
+
+ -204 Hino 
+
+ -224 Isesaki 
+
+ -226 Iwaki 
+
+ -227 Iwakuni 
+
+ -228 Iwatsuki 
+
+ -229 Izumisano 
+
+ -253 Kakamigahara 
+
+ -256 Kamakura 
+
+ -260 Kanazawa 
+
+ -276 Koriyama 
+
+ -284 Kurashiki 
+
+ -287 Kuwana 
+
+ -331 Matsue 
+
+ -338 Miyakonojo 
+
+ -355 Nagareyama 
+
+ -380 Omiya 
+
+ -382 Onomichi 
+
+ -386 Otsu 
+
+ -440 Sagamihara 
+
+ -463 Sasebo 
+
+ -474 Shimonoseki 
+
+ -521 Tama 
+
+ -547 Tsuyama 
+
+ -552 Ueda 
+
+ -555 Urawa 
+
+ -377 Okinawa 
+
+ -376 Okayama 
+
+ -205 Hiroshima 
+
+
+51 Kazakstan
+2 paises y 1 direcciones 
+ -598 Zhezqazghan 
+
+ -402 Pavlodar 
+
+
+52 Kenya
+2 paises y 0 direcciones 
+ -271 Kisumu 
+
+ -372 Nyeri 
+
+
+53 Kuwait
+1 paises y 0 direcciones 
+ -233 Jalib al-Shuyukh 
+
+
+54 Latvia
+2 paises y 2 direcciones 
+ -137 Daugavpils 
+
+ -303 Liepaja 
+
+
+55 Liechtenstein
+1 paises y 1 direcciones 
+ -560 Vaduz 
+
+
+56 Lithuania
+1 paises y 0 direcciones 
+ -570 Vilnius 
+
+
+57 Madagascar
+1 paises y 1 direcciones 
+ -319 Mahajanga 
+
+
+58 Malawi
+1 paises y 1 direcciones 
+ -304 Lilongwe 
+
+
+59 Malaysia
+3 paises y 0 direcciones 
+ -223 Ipoh 
+
+ -282 Kuching 
+
+ -507 Sungai Petani 
+
+
+60 Mexico
+30 paises y 2 direcciones 
+ -4 Acua 
+
+ -19 Allende 
+
+ -40 Atlixco 
+
+ -103 Carmen 
+
+ -106 Celaya 
+
+ -124 Coacalco de Berriozbal 
+
+ -125 Coatzacoalcos 
+
+ -129 Cuauhtmoc 
+
+ -130 Cuautla 
+
+ -131 Cuernavaca 
+
+ -154 El Fuerte 
+
+ -188 Guadalajara 
+
+ -212 Huejutla de Reyes 
+
+ -213 Huixquilucan 
+
+ -246 Jos Azueta 
+
+ -250 Jurez 
+
+ -330 Matamoros 
+
+ -335 Mexicali 
+
+ -341 Monclova 
+
+ -365 Nezahualcyotl 
+
+ -393 Pachuca de Soto 
+
+ -445 Salamanca 
+
+ -451 San Felipe del Progreso 
+
+ -452 San Juan Bautista Tuxtepec 
+
+ -541 Torren 
+
+ -556 Uruapan 
+
+ -563 Valle de Santiago 
+
+ -595 Zapopan 
+
+ -202 Hidalgo 
+
+ -288 La Paz 
+
+
+61 Moldova
+1 paises y 1 direcciones 
+ -115 Chisinau 
+
+
+62 Morocco
+3 paises y 0 direcciones 
+ -68 Beni-Mellal 
+
+ -353 Nador 
+
+ -443 Sal 
+
+
+63 Mozambique
+3 paises y 1 direcciones 
+ -64 Beira 
+
+ -351 Naala-Porto 
+
+ -534 Tete 
+
+
+64 Myanmar
+2 paises y 0 direcciones 
+ -342 Monywa 
+
+ -349 Myingyan 
+
+
+65 Nauru
+1 paises y 0 direcciones 
+ -583 Yangor 
+
+
+66 Nepal
+1 paises y 0 direcciones 
+ -81 Birgunj 
+
+
+67 Netherlands
+5 paises y 0 direcciones 
+ -23 Amersfoort 
+
+ -29 Apeldoorn 
+
+ -151 Ede 
+
+ -158 Emmen 
+
+ -438 s-Hertogenbosch 
+
+
+68 New Zealand
+1 paises y 1 direcciones 
+ -200 Hamilton 
+
+
+69 Nigeria
+13 paises y 2 direcciones 
+ -69 Benin City 
+
+ -141 Deba Habe 
+
+ -152 Effon-Alaiye 
+
+ -217 Ife 
+
+ -218 Ikerre 
+
+ -220 Ilorin 
+
+ -374 Ogbomosho 
+
+ -381 Ondo 
+
+ -389 Owo 
+
+ -390 Oyo 
+
+ -488 Sokoto 
+
+ -596 Zaria 
+
+ -252 Kaduna 
+
+
+70 North Korea
+1 paises y 0 direcciones 
+ -420 Pyongyang 
+
+
+71 Oman
+2 paises y 1 direcciones 
+ -444 Salala 
+
+ -329 Masqat 
+
+
+72 Pakistan
+5 paises y 0 direcciones 
+ -134 Dadu 
+
+ -324 Mandi Bahauddin 
+
+ -327 Mardan 
+
+ -375 Okara 
+
+ -472 Shikarpur 
+
+
+73 Paraguay
+3 paises y 1 direcciones 
+ -122 Ciudad del Este 
+
+ -453 San Lorenzo 
+
+ -37 Asuncin 
+
+
+74 Peru
+4 paises y 2 direcciones 
+ -214 Hunuco 
+
+ -503 Sullana 
+
+ -99 Callao 
+
+ -305 Lima 
+
+
+75 Philippines
+20 paises y 0 direcciones 
+ -61 Baybay 
+
+ -62 Bayugan 
+
+ -82 Bislig 
+
+ -98 Cabuyao 
+
+ -104 Cavite 
+
+ -138 Davao 
+
+ -182 Gingoog 
+
+ -192 Hagonoy 
+
+ -219 Iligan 
+
+ -221 Imus 
+
+ -294 Lapu-Lapu 
+
+ -323 Mandaluyong 
+
+ -391 Ozamis 
+
+ -458 Santa Rosa 
+
+ -517 Taguig 
+
+ -519 Talavera 
+
+ -523 Tanauan 
+
+ -527 Tanza 
+
+ -528 Tarlac 
+
+ -548 Tuguegarao 
+
+
+76 Poland
+8 paises y 0 direcciones 
+ -97 Bydgoszcz 
+
+ -133 Czestochowa 
+
+ -236 Jastrzebie-Zdrj 
+
+ -255 Kalisz 
+
+ -314 Lublin 
+
+ -409 Plock 
+
+ -549 Tychy 
+
+ -577 Wroclaw 
+
+
+77 Puerto Rico
+2 paises y 2 direcciones 
+ -32 Arecibo 
+
+ -411 Ponce 
+
+
+78 Romania
+2 paises y 1 direcciones 
+ -95 Bucuresti 
+
+ -86 Botosani 
+
+
+79 Runion
+1 paises y 1 direcciones 
+ -442 Saint-Denis 
+
+
+80 Russian Federation
+28 paises y 8 direcciones 
+ -39 Atinsk 
+
+ -49 Balaiha 
+
+ -150 Dzerzinsk 
+
+ -156 Elista 
+
+ -238 Jelets 
+
+ -259 Kamyin 
+
+ -270 Kirovo-Tepetsk 
+
+ -274 Kolpino 
+
+ -278 Korolev 
+
+ -310 Ljubertsy 
+
+ -320 Maikop 
+
+ -343 Moscow 
+
+ -352 Nabereznyje Telny 
+
+ -367 Niznekamsk 
+
+ -369 Novoterkassk 
+
+ -408 Pjatigorsk 
+
+ -466 Serpuhov 
+
+ -510 Syktyvkar 
+
+ -531 Teboksary 
+
+ -558 Usolje-Sibirskoje 
+
+ -597 Zeleznogorsk 
+
+ -225 Ivanovo 
+
+ -235 Jaroslavl 
+
+ -254 Kaliningrad 
+
+ -285 Kurgan 
+
+ -286 Kursk 
+
+ -484 Smolensk 
+
+ -308 Lipetsk 
+
+
+81 Saint Vincent and the Grenadines
+1 paises y 0 direcciones 
+ -269 Kingstown 
+
+
+82 Saudi Arabia
+5 paises y 1 direcciones 
+ -2 Abha 
+
+ -237 Jedda 
+
+ -13 al-Hawiya 
+
+ -16 al-Qatif 
+
+ -515 Tabuk 
+
+
+83 Senegal
+1 paises y 1 direcciones 
+ -600 Ziguinchor 
+
+
+84 Slovakia
+1 paises y 1 direcciones 
+ -90 Bratislava 
+
+
+85 South Africa
+11 paises y 0 direcciones 
+ -85 Boksburg 
+
+ -87 Botshabelo 
+
+ -112 Chatsworth 
+
+ -244 Johannesburg 
+
+ -267 Kimberley 
+
+ -273 Klerksdorp 
+
+ -364 Newcastle 
+
+ -392 Paarl 
+
+ -437 Rustenburg 
+
+ -491 Soshanguve 
+
+ -497 Springs 
+
+
+86 South Korea
+5 paises y 1 direcciones 
+ -268 Kimchon 
+
+ -357 Naju 
+
+ -539 Tonghae 
+
+ -553 Uijongbu 
+
+ -113 Cheju 
+
+
+87 Spain
+5 paises y 0 direcciones 
+ -1 A Corua La Corua 
+
+ -146 Donostia-San Sebastin 
+
+ -181 Gijn 
+
+ -388 Ourense Orense 
+
+ -459 Santiago de Compostela 
+
+
+88 Sri Lanka
+1 paises y 0 direcciones 
+ -230 Jaffna 
+
+
+89 Sudan
+2 paises y 1 direcciones 
+ -379 Omdurman 
+
+ -15 al-Qadarif 
+
+
+90 Sweden
+1 paises y 0 direcciones 
+ -321 Malm 
+
+
+91 Switzerland
+3 paises y 1 direcciones 
+ -56 Basel 
+
+ -296 Lausanne 
+
+ -72 Bern 
+
+
+92 Taiwan
+10 paises y 3 direcciones 
+ -116 Chungho 
+
+ -168 Fengshan 
+
+ -209 Hsichuh 
+
+ -316 Lungtan 
+
+ -526 Tanshui 
+
+ -542 Touliu 
+
+ -546 Tsaotun 
+
+ -108 Changhwa 
+
+ -114 Chiayi 
+
+ -361 Nantou 
+
+
+93 Tanzania
+3 paises y 1 direcciones 
+ -347 Mwanza 
+
+ -593 Zanzibar 
+
+ -513 Tabora 
+
+
+94 Thailand
+3 paises y 2 direcciones 
+ -394 Pak Kret 
+
+ -358 Nakhon Sawan 
+
+ -489 Songkhla 
+
+
+95 Tonga
+1 paises y 0 direcciones 
+ -370 Nukualofa 
+
+
+96 Tunisia
+1 paises y 1 direcciones 
+ -492 Sousse 
+
+
+97 Turkey
+15 paises y 8 direcciones 
+ -142 Denizli 
+
+ -163 Eskisehir 
+
+ -180 Gaziantep 
+
+ -222 Inegl 
+
+ -482 Sivas 
+
+ -504 Sultanbeyli 
+
+ -529 Tarsus 
+
+ -538 Tokat 
+
+ -50 Balikesir 
+
+ -58 Batman 
+
+ -266 Kilis 
+
+ -281 Ktahya 
+
+ -384 Osmaniye 
+
+ -557 Usak 
+
+ -5 Adana 
+
+
+98 Turkmenistan
+1 paises y 0 direcciones 
+ -35 Ashgabat 
+
+
+99 Tuvalu
+1 paises y 1 direcciones 
+ -173 Funafuti 
+
+
+100 Ukraine
+6 paises y 1 direcciones 
+ -258 Kamjanets-Podilskyi 
+
+ -275 Konotop 
+
+ -345 Mukateve 
+
+ -479 Simferopol 
+
+ -385 ostka 
+
+ -506 Sumy 
+
+
+101 United Arab Emirates
+3 paises y 3 direcciones 
+ -12 al-Ayn 
+
+ -470 Sharja 
+
+ -3 Abu Dhabi 
+
+
+102 United Kingdom
+8 paises y 0 direcciones 
+ -88 Bradford 
+
+ -149 Dundee 
+
+ -312 London 
+
+ -494 Southampton 
+
+ -495 Southend-on-Sea 
+
+ -496 Southport 
+
+ -500 Stockport 
+
+ -589 York 
+
+
+103 United States
+35 paises y 0 direcciones 
+ -11 Akron 
+
+ -33 Arlington 
+
+ -41 Augusta-Richmond County 
+
+ -42 Aurora 
+
+ -65 Bellevue 
+
+ -94 Brockton 
+
+ -101 Cape Coral 
+
+ -120 Citrus Heights 
+
+ -123 Clarksville 
+
+ -126 Compton 
+
+ -135 Dallas 
+
+ -140 Dayton 
+
+ -155 El Monte 
+
+ -171 Fontana 
+
+ -177 Garden Grove 
+
+ -178 Garland 
+
+ -185 Grand Prairie 
+
+ -187 Greensboro 
+
+ -245 Joliet 
+
+ -262 Kansas City 
+
+ -292 Lancaster 
+
+ -295 Laredo 
+
+ -306 Lincoln 
+
+ -322 Manchester 
+
+ -333 Memphis 
+
+ -404 Peoria 
+
+ -433 Roanoke 
+
+ -435 Rockford 
+
+ -441 Saint Louis 
+
+ -446 Salinas 
+
+ -449 San Bernardino 
+
+ -499 Sterling Heights 
+
+ -508 Sunnyvale 
+
+ -520 Tallahassee 
+
+ -573 Warren 
+
+
+104 Venezuela
+7 paises y 0 direcciones 
+ -55 Barcelona 
+
+ -102 Caracas 
+
+ -132 Cuman 
+
+ -326 Maracabo 
+
+ -373 Ocumare del Tuy 
+
+ -561 Valencia 
+
+ -562 Valle de la Pascua 
+
+
+105 Vietnam
+6 paises y 2 direcciones 
+ -100 Cam Ranh 
+
+ -359 Nam Dinh 
+
+ -366 Nha Trang 
+
+ -571 Vinh 
+
+ -194 Haiphong 
+
+ -201 Hanoi 
+
+
+106 Virgin Islands
+1 paises y 0 direcciones 
+ -111 Charlotte Amalie 
+
+
+107 Yemen
+4 paises y 4 direcciones 
+ -7 Aden 
+
+ -206 Hodeida 
+
+ -455 Sanaa 
+
+ -518 Taizz 
+
+
+108 Yugoslavia
+2 paises y 0 direcciones 
+ -280 Kragujevac 
+
+ -368 Novi Sad 
+
+
+109 Zambia
+1 paises y 0 direcciones 
+ -272 Kitwe 
+
+
