@@ -23,3 +23,6 @@
 - #### [3.4. Orientacion a Objetos Avanzada IV](https://github.com/sbFranj/Java/tree/main/alquilerVehiculos)
 - #### [3.5. Orientacion a Objetos Avanzada V](https://github.com/sbFranj/Java/tree/main/empresaIT)
 - #### [4.1. Orientacion a Objetos Estructura de Datos Avanzados I](https://github.com/sbFranj/Java/tree/main/boletin1eda/src/boletin1eda)
+- #### [5.1. Orientacion a Objetos Lectura de Datos I](https://github.com/sbFranj/Java/tree/main/Euromillones)
+- #### [5.2. Orientacion a Objetos Lectura/Escritura de Datos I](https://github.com/sbFranj/Java/tree/main/geolectura)
+- #### [5.3. Orientacion a Objetos Lectura de Datos II](https://github.com/sbFranj/Java/tree/main/gestioncasetas)
